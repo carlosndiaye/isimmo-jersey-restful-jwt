@@ -49,9 +49,9 @@ Contributor(s):
     
     <!-- Heroku config -->
     
-    <property name="hibernate.connection.url">jdbc:postgresql://ec2-3-234-169-147.compute-1.amazonaws.com:5432/d9hluuhd9vbesf</property>
-    <property name="hibernate.connection.username">jwgarkxprjovwm</property>
-    <property name="hibernate.connection.password">40e62f8d20a25173a45e29e0f27b4ca09a3ddb9fed838e3b33d576bd889e9164</property>
+    <property name="hibernate.connection.url">jdbc:postgresql://ec2-54-197-34-207.compute-1.amazonaws.com:5432/d9otcqh04btknm</property>
+    <property name="hibernate.connection.username">ajxzyztbqxbmsg</property>
+    <property name="hibernate.connection.password">165d592e841fe50f6b2f7c505dd9a14a75a89213cc7ad9ab43c19c4241f39ddc</property>
     
     <property name="hibernate.id.new_generator_mappings">true</property>
     <property name="show_sql">true</property>
