@@ -7,7 +7,7 @@
     <groupId>inc.kraken</groupId>
     <artifactId>isimmo</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>isimmo</name>
     <!-- FIXME change it to the project's website -->
